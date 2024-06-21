@@ -1,0 +1,28 @@
+/* homepage.css */
+
+.homepage { /* Enable Flexbox layout */
+    justify-content: flex-start; /* Center elements horizontally */
+    align-items: center; /* Center elements vertically */
+    height: 100vh;
+    background-image: linear-gradient(125deg,#2c3e50,lightgreen,lightblue,#e74c3c,pink);
+    background-size: 400%;
+    animation: bganimation 15s infinite;
+  }
+  
+  .background-animation { /* Optional element for alternative approach */
+    padding-top: 500px;
+  }
+  
+  @keyframes bganimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  

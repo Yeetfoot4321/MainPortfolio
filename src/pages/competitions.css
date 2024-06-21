@@ -1,0 +1,18 @@
+.competition-grid {
+    display: flex; /* Make the grid a flexbox container */
+  }
+  
+  .competition-group {
+    flex: 1; /* Make each group take up half the space */
+    margin: 10px; /* Add spacing between groups (optional) */
+  }
+  
+  .competition-group-right {
+    margin-left: auto; /* Move the right group to the right with margin */
+  }
+  
+  .competition-group-right {
+    order: 2; /* Move the right group visually to the end */
+  }
+  
+  

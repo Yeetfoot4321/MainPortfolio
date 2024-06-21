@@ -1,0 +1,28 @@
+.about-me-container {
+    display: flex; /* Make the container a flexbox */
+  }
+  
+  .about-me-left,
+  .about-me-right {
+    flex: 1; /* Make both sections take up equal space */
+    padding: 20px; /* Add padding for content */
+  }
+  
+  .about-me-left p {
+    line-height: 1.5; /* Adjust line spacing for readability */
+  }
+  
+  .skills-list {
+    list-style: none; /* Remove default bullet points */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+  }
+  
+  .skills-list li {
+    margin-bottom: 5px; /* Add spacing between skill items */
+    padding: 5px 10px; /* Add padding for each skill box */
+    border: 1px solid #ddd; /* Add a thin border */
+    border-radius: 5px; /* Add rounded corners */
+    display: inline-block; /* Allow skills to wrap on multiple lines */
+  }
+  

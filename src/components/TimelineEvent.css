@@ -1,0 +1,38 @@
+/* TimelineEvent.css */
+
+.timeline-event {
+    position: relative;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    /* Additional styles for positioning: */
+    flex-grow: 1; /* Allow events to grow and fill available space */
+    justify-content: center; /* Center content vertically */
+    text-align: center; /* Center text horizontally */
+  }
+  
+  .timeline-event::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%); /* Center the circle visually */
+    left: -10px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #ddd;
+  }
+  
+  .timeline-event-content {
+    padding-left: 20px;
+  }
+  
+  .timeline-event-content h3 {
+    margin: 0 0 5px;
+  }
+  
