@@ -59,7 +59,7 @@ const localImages = [
     src: sec3comp,
     alt: "Secondary 3 Computing+ Coursework",
     title: "Secondary 3 Computing+ Coursework",
-    description: "Machine Learning on Spam Detection",
+    description: "Machine Learning on Spam Detection using Python",
   },
   {
     src: physics,

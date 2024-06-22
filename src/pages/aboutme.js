@@ -1,4 +1,5 @@
 import React from 'react';
+import codewars from "../pages/images/codewarsrank.png";
 import "./aboutme.css"
 export default function AboutMe() {
   return (
@@ -19,6 +20,7 @@ export default function AboutMe() {
           <li>Python</li>
           <li>C++</li>
           {/* Add more skills as needed */}
+          <image src={codewars} />
         </ul>
       </div>
     </div>
