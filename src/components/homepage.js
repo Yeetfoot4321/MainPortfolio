@@ -13,13 +13,13 @@ const Homepage = () => {
       <TypeAnimation
         sequence={[
           // Same substring at the start will only be typed out once, initially
-          'I plan to pursue Science',
+          'I want to pursue Science',
           1000, // wait 1s before replacing "Mice" with "Hamsters"
-          'I plan to pursue Technology',
+          'I want to pursue Technology',
           1000,
-          'I plan to pursue Engineering',
+          'I want to pursue Engineering',
           1000,
-          'I plan to pursue Math',
+          'I want to pursue Math',
           1000
         ]}
         wrapper="span"

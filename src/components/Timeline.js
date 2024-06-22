@@ -35,7 +35,7 @@ const experience = () => {
     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     icon=""
   >
-    <h3 className="vertical-timeline-element-title">10-Day San Francisco Trip</h3>
+    <h3 className="vertical-timeline-element-title">World Developers Conference 2023 (10 Day San-Francisco trip)</h3>
     <h4 className="vertical-timeline-element-subtitle">Particpant</h4>
     <p>
       11 Feb 2023 - 19 Feb 2023
@@ -101,7 +101,7 @@ const experience = () => {
     iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
     icon=""
   >
-    <h3 className="vertical-timeline-element-title">Open House 2023 (PForSST)</h3>
+    <h3 className="vertical-timeline-element-title">Open House 2024 (PForSST)</h3>
     <h4 className="vertical-timeline-element-subtitle">Speaker</h4>
     <p>
       25 May 2024

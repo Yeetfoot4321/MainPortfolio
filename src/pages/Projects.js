@@ -5,6 +5,9 @@ import sec3comp from "../pages/images/sec3Model.png";
 import ReactDOM from "react-dom";
 import physics from "../pages/images/Physics.png";
 import circuit from "../pages/images/metronome_elec.jpeg"
+import calc from "../pages/images/mathcalc.png"
+import compcalc from "../pages/images/compcalc.png"
+import sciencecomm from "../pages/images/sciencecomm.png"
 import "../styles.css";
 
 // Function for a single image with zoom functionality
@@ -65,19 +68,33 @@ const localImages = [
       "The task was to create an antenna that can receive radio waves. It will receives a sound wave that is in a form of a morse code is sent at a specfic frequency. After receiving the sound wave, it will be converted back to text by code.",
   },
   {
-    src: physics,
-    alt: "Physics Performance Task",
-    title: "Physics Performance Task",
-    description:
-      "The task was to create an antenna that can receive radio waves. It will receives a sound wave that is in a form of a morse code is sent at a specfic frequency. After receiving the sound wave, it will be converted back to text by code.",
-  },
-  {
     src: circuit,
     alt: "Electronics Performance Task",
     title: "Electronics Performance Task",
     description:
-      "The task was to create a metronome using a 555-timer in astable mode. Using a potentiometer to change the period of the electrical pulses allow it to function as a metronome",
+      "The task was to create a metronome using a 555-timer in astable mode. Using a potentiometer to change the resistance in order to change the period of the electrical pulses produced from the 555-timer.",
   },
+  {
+    src: calc,
+    alt: "Extra",
+    title: "Calculus Extension",
+    description:
+      "This was an extra project I had done. This was to calculate the surface area and volume of an equation when it is revolving around the x-axis.",
+  },
+  {
+    src: compcalc,
+    alt: "Extra",
+    title: "Calculus Extension 2 using Python",
+    description:
+      "In addition, I was able to use python and sympy to make some simple calculations. This code allows me to get the surface area and volume of an equation when revolved around the x-axis.",
+  },
+  {
+    src: sciencecomm,
+    alt: "Extra",
+    title: "Science Communication",
+    description:
+      "The task was to write a pop science article about a research article. My group was tasked to write about Optimising connectivity solutions for anarboreal gliding mammal. I learnt how to be clear and concise while using words that are not too hard for readers to understand. ",
+  }
 ];
 
 // Function for displaying local images

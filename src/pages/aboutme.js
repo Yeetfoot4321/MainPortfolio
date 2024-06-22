@@ -16,6 +16,8 @@ export default function AboutMe() {
           <li>HTML</li>
           <li>CSS</li>
           <li>JavaScript (React)</li>
+          <li>Python</li>
+          <li>C++</li>
           {/* Add more skills as needed */}
         </ul>
       </div>
