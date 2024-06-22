@@ -8,8 +8,6 @@ const experience = () => {
 <VerticalTimeline lineColor="grey">
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-    contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     icon=""
   >

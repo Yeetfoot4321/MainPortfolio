@@ -8,6 +8,7 @@ import circuit from "../pages/images/metronome_elec.jpeg"
 import calc from "../pages/images/mathcalc.png"
 import compcalc from "../pages/images/compcalc.png"
 import sciencecomm from "../pages/images/sciencecomm.png"
+import emath from "../pages/images/emath.png"
 import "../styles.css";
 
 // Function for a single image with zoom functionality
@@ -83,17 +84,24 @@ const localImages = [
   },
   {
     src: compcalc,
-    alt: "Extra",
+    alt: "Extras",
     title: "Calculus Extension 2 using Python",
     description:
       "In addition, I was able to use python and sympy to make some simple calculations. This code allows me to get the surface area and volume of an equation when revolved around the x-axis.",
   },
   {
     src: sciencecomm,
-    alt: "Extra",
+    alt: "",
     title: "Science Communication",
     description:
-      "The task was to write a pop science article about a research article. My group was tasked to write about Optimising connectivity solutions for anarboreal gliding mammal. I learnt how to be clear and concise while using words that are not too hard for readers to understand. ",
+      "The task was to write a pop science article about a research article. My group was tasked to write about Optimising connectivity solutions for anarboreal gliding mammal.",
+  },
+  {
+    src: emath,
+    alt: "",
+    title: "The affect of learning environment on grades",
+    description:
+      "The task was to find correlations between the learning environment and the different subjects. We found how captivation and overall challenge were factors to be considered in the students grades.",
   }
 ];
 
