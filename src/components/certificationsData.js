@@ -6,14 +6,8 @@ import CAT from "../pages/images/CatComputing.jpg"
 import edusave from "../pages/images/Edusave.jpg"
 import hmgics from "../pages/images/HyundaiHMGICS.jpg"
 import imc from "../pages/images/IMC.png"
+import edumerit from "../pages/images/CCC_Merit.jpeg"
 export const certificationsData = [
-    {
-      category: "All",
-      imageSrc: "/static/media/idc_challenge.ce703849a7c46fe18893.jpeg",
-      title: "Certification Title 1",
-      description: "A brief description of certification 1",
-      fullImageSrc: "/path/to/full/image1.jpg", // Optional: path to full-size image
-    },
     {
       category: "Computing+",
       imageSrc: perse1,
@@ -53,6 +47,13 @@ export const certificationsData = [
       category: "Education",
       imageSrc: edusave,
       title: "Edusave Certificate of Academic Achievement",
+      description: "",
+      fullImageSrc: "", // Optional: path to full-size image
+    },
+    {
+      category: "Education",
+      imageSrc: edumerit,
+      title: "CCC-CDC Education Merit Award 2023",
       description: "",
       fullImageSrc: "", // Optional: path to full-size image
     },
