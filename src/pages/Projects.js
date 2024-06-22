@@ -99,7 +99,7 @@ const localImages = [
   {
     src: emath,
     alt: "",
-    title: "The affect of learning environment on grades",
+    title: "The effect of learning environment on grades",
     description:
       "The task was to find correlations between the learning environment and the different subjects. We found how captivation and overall challenge were factors to be considered in the students grades.",
   }
