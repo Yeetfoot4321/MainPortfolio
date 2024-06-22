@@ -4,6 +4,7 @@ import computingface from "../pages/images/facerecog.png";
 import sec3comp from "../pages/images/sec3Model.png";
 import ReactDOM from "react-dom";
 import physics from "../pages/images/Physics.png";
+import circuit from "../pages/images/metronome_elec.jpeg"
 import "../styles.css";
 
 // Function for a single image with zoom functionality
@@ -62,6 +63,20 @@ const localImages = [
     title: "Physics Performance Task",
     description:
       "The task was to create an antenna that can receive radio waves. It will receives a sound wave that is in a form of a morse code is sent at a specfic frequency. After receiving the sound wave, it will be converted back to text by code.",
+  },
+  {
+    src: physics,
+    alt: "Physics Performance Task",
+    title: "Physics Performance Task",
+    description:
+      "The task was to create an antenna that can receive radio waves. It will receives a sound wave that is in a form of a morse code is sent at a specfic frequency. After receiving the sound wave, it will be converted back to text by code.",
+  },
+  {
+    src: circuit,
+    alt: "Electronics Performance Task",
+    title: "Electronics Performance Task",
+    description:
+      "The task was to create a metronome using a 555-timer in astable mode. Using a potentiometer to change the period of the electrical pulses allow it to function as a metronome",
   },
 ];
 
