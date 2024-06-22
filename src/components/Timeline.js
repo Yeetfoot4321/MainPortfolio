@@ -115,7 +115,7 @@ const experience = () => {
     <h3 className="vertical-timeline-element-title">Magorium Capstone Project</h3>
     <h4 className="vertical-timeline-element-subtitle">Member</h4>
     <p>
-      24 August 2024 - Present
+      24 August 2023 - Present
     </p>
   </VerticalTimelineElement>
 </VerticalTimeline>
