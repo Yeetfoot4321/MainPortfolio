@@ -20,9 +20,10 @@ export default function AboutMe() {
           <li>Python</li>
           <li>C++</li>
           {/* Add more skills as needed */}
-          <image src={codewars} />
-        </ul>
+          <img src={codewars} alt="Codewars Rank" height="100" width="400"/>
+          </ul>
       </div>
+      
     </div>
   );
 }
