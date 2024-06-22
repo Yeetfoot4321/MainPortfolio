@@ -7,6 +7,7 @@ import edusave from "../pages/images/Edusave.jpg"
 import hmgics from "../pages/images/HyundaiHMGICS.jpg"
 import imc from "../pages/images/IMC.png"
 import edumerit from "../pages/images/CCC_Merit.jpeg"
+import perse3 from "../pages/images/perse2023.png"
 export const certificationsData = [
     {
       category: "Computing+",
@@ -24,7 +25,7 @@ export const certificationsData = [
     },
     {
       category: "Computing+",
-      imageSrc: "/static/media/PerseR22024.ca9d1694f44e72ebdc81.png",
+      imageSrc: perse3,
       title: "Perse Coding Round 1 (2023)",
       description: "Merit",
       fullImageSrc: "", // Optional: path to full-size image
