@@ -1,6 +1,6 @@
 import React from 'react';
 import './homepage.css'; // Import your CSS file
-import photo from "../pages/images/photoofself.jpeg"
+import photo from "../pages/images/photoofself.png"
 import { TypeAnimation } from 'react-type-animation';
 
 const Homepage = () => {
