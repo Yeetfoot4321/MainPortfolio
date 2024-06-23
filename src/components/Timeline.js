@@ -121,7 +121,7 @@ const experience = () => {
     iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
     icon=""
   >
-    <h3 className="vertical-timeline-element-title">2024 SST-SMU IDP Technopreuship Hackathon</h3>
+    <h3 className="vertical-timeline-element-title">2024 SST-SMU IDP Technopreneurship Hackathon</h3>
     <h4 className="vertical-timeline-element-subtitle">Participant</h4>
     <p>
     18-19 June 2024
