@@ -8,7 +8,7 @@ export default function AboutMe() {
         <h2>About Me</h2>
         <p>
           {/* Write your description about yourself here */}
-          I am a secondary four student currrently studying in School of Science and Technology. I am currently enrolled in the SST-Ngee Ann Polytechnic Integrated Diploma Programme. Currently in SST, I am taking the applied subject engineering+ which consists of electronics, computing and physics.
+          I am Seow Jie Rui Gerald, a Secondary Four student studying at the School of Science and Technology (SST). I am currently enrolled in the SST-Ngee Ann Polytechnic Integrated Diploma Programme. In SST, I am taking the applied subject Engineering+ which consists of Electronics, Computing+ and Physics.
         </p>
       </div>
       <div className="about-me-right">
