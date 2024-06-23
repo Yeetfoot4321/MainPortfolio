@@ -99,6 +99,17 @@ const experience = () => {
     iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
     icon=""
   >
+    <h3 className="vertical-timeline-element-title">SUTD-NP-SST Big-D camp</h3>
+    <h4 className="vertical-timeline-element-subtitle">Participant</h4>
+    <p>
+    9 - 11 January 2024
+    </p>
+  </VerticalTimelineElement>
+  <VerticalTimelineElement
+    className="vertical-timeline-element--education"
+    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+    icon=""
+  >
     <h3 className="vertical-timeline-element-title">Mentors’ Networking</h3>
     <h4 className="vertical-timeline-element-subtitle">Leader for Registration and Ushering</h4>
     <p>
@@ -121,7 +132,7 @@ const experience = () => {
     iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
     icon=""
   >
-    <h3 className="vertical-timeline-element-title">2024 SST-SMU IDP Technopreneurship Hackathon</h3>
+    <h3 className="vertical-timeline-element-title">2024 SST-SMU IDP Advanched Technopreneurship Hackathon</h3>
     <h4 className="vertical-timeline-element-subtitle">Participant</h4>
     <p>
     18-19 June 2024
