@@ -10,7 +10,7 @@
   }
   
   .background-animation { /* Optional element for alternative approach */
-    padding-top: 500px;
+    padding-top: 150px;
   }
   
   @keyframes bganimation {

@@ -55,6 +55,17 @@ const experience = () => {
     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     icon=""
   >
+    <h3 className="vertical-timeline-element-title">ARTC Camp</h3>
+    <h4 className="vertical-timeline-element-subtitle">Participant</h4>
+    <p>
+      30th May - 1st June 2023
+    </p>
+  </VerticalTimelineElement>
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+    icon=""
+  >
     <h3 className="vertical-timeline-element-title">Extended Learning Experience (XLE) Camp</h3>
     <h4 className="vertical-timeline-element-subtitle">Participant</h4>
     <p>
@@ -63,7 +74,7 @@ const experience = () => {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--education"
-    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     icon=""
   >
     <h3 className="vertical-timeline-element-title">International Exchange Programme Jakarta, Indonesia</h3>
@@ -74,7 +85,7 @@ const experience = () => {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--education"
-    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     icon=""
   >
     <h3 className="vertical-timeline-element-title">Work Attachment at Hyundai Motor Group Innovation Center Singapore (HMGICS)</h3>
@@ -103,6 +114,17 @@ const experience = () => {
     <h4 className="vertical-timeline-element-subtitle">Speaker</h4>
     <p>
       25 May 2024
+    </p>
+  </VerticalTimelineElement>
+  <VerticalTimelineElement
+    className="vertical-timeline-element--work"
+    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+    icon=""
+  >
+    <h3 className="vertical-timeline-element-title">2024 SST-SMU IDP Technopreuship Hackathon</h3>
+    <h4 className="vertical-timeline-element-subtitle">Participant</h4>
+    <p>
+    18-19 June 2024
     </p>
   </VerticalTimelineElement>
   <VerticalTimelineElement

@@ -1,5 +1,6 @@
 import React from 'react';
 import './homepage.css'; // Import your CSS file
+import photo from "../pages/images/photoofself.jpeg"
 import { TypeAnimation } from 'react-type-animation';
 
 const Homepage = () => {
@@ -9,6 +10,7 @@ const Homepage = () => {
       <div className="background-animation" ></div>
 
       {/* Text content with type animation */}
+      <img src={photo} height="400" width="400"/>
       <h1>Hello I'm Gerald</h1>
       <TypeAnimation
         sequence={[
